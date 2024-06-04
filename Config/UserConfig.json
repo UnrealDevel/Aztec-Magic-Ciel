@@ -1,8 +1,8 @@
 {
   "ClientID": 1,
-  "UnrealIP":"192.168.1.181",
+  "UnrealIP":"127.0.0.1",
   "UnrealPortListen":9292,
   "UnrealPortDestination":6002,
-  "GPXServerIP": "10.23.0.51",
-  "GPXTrackerIP": "192.168.1.181"
+  "GPXServerIP": "127.0.0.1",
+  "GPXTrackerIP": "127.0.0.1"
 }
