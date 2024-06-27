@@ -4,5 +4,6 @@
   "UnrealPortListen":9292,
   "UnrealPortDestination":6002,
   "GPXServerIP": "127.0.0.1",
-  "GPXTrackerIP": "127.0.0.1"
+  "GPXTrackerIP": "127.0.0.1",
+"NextAddress":"C:/Users/CIEL/Desktop/CyberWall/TechWall.exe"
 }
